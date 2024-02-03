@@ -1,0 +1,4 @@
+[submodule "zeroing"]
+	path = zeroing
+	url = https://github.com/simonis/zeroing
+	branch = main
